@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(243, 236, 196);
+  font-family: Arial;
+  font-size: 20px;
+}
+h2 {
+  font-size: 35px;
+}
+
+.first {
+  color: red;
+}
+
+#your-name {
+  background-color: yellowgreen;
+}
+
+#github-avatar {
+  width: 45%;
+}
