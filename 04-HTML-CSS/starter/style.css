@@ -13,6 +13,7 @@ h2 {
 
 #your-name {
   background-color: yellowgreen;
+  border: 5px solid #444;
 }
 
 #github-avatar {
