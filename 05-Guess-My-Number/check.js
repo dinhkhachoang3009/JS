@@ -27,3 +27,6 @@ checkGuess(62);
 checkGuess(68);
 checkGuess(65);
 checkGuess(63);
+checkGuess(64);
+const score = Math.floor(Math.random() * 100);
+console.log(`Random score bonus: ${score} points`);
